@@ -9,6 +9,11 @@ i2c_drv.h
 i2c_drv.c
 
 Document - Philosophy.pdf - contains the theory and explanation of the code. 
+
+## Youtube video for explanation
+
+[Video] (https://www.youtube.com/watch?v=sz9c3SDRGCc&ab_channel=BalemarthyVamsi).
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
